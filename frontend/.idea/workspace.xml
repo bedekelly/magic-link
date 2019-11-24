@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be4a1bb6-6a49-4c1a-8513-75b09b5cf8ce" name="Default Changelist" comment="" />
+    <list default="true" id="be4a1bb6-6a49-4c1a-8513-75b09b5cf8ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../login/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../private-data/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../private-data/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../request/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../request/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>
     <exe-path />
@@ -22,6 +32,7 @@
     <other-services-enabled>false</other-services-enabled>
   </component>
   <component name="ProjectId" id="1TuKQRoQI73rXOwyhgKui6TFoX8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +42,7 @@
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -68,6 +80,7 @@
       <updated>1574304523431</updated>
       <workItem from="1574304526964" duration="16750000" />
       <workItem from="1574382577306" duration="3306000" />
+      <workItem from="1574582983152" duration="501000" />
     </task>
     <servers />
   </component>
@@ -79,6 +92,10 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="221" y="75" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1574317309053" />
+    <state x="505" y="198" width="935" height="476" key="find.popup" timestamp="1574583372202">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="505" y="198" width="935" height="476" key="find.popup/0.23.1440.826@0.23.1440.826" timestamp="1574583372202" />
     <state x="886" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1574324613083">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
